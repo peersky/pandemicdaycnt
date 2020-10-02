@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pandemicdaycnt/static/css/main.04f938e9.chunk.css",
-    "main.js": "/pandemicdaycnt/static/js/main.be05c919.chunk.js",
-    "main.js.map": "/pandemicdaycnt/static/js/main.be05c919.chunk.js.map",
+    "main.js": "/pandemicdaycnt/static/js/main.b0466426.chunk.js",
+    "main.js.map": "/pandemicdaycnt/static/js/main.b0466426.chunk.js.map",
     "runtime-main.js": "/pandemicdaycnt/static/js/runtime-main.660a3917.js",
     "runtime-main.js.map": "/pandemicdaycnt/static/js/runtime-main.660a3917.js.map",
     "static/js/2.2bdcce4f.chunk.js": "/pandemicdaycnt/static/js/2.2bdcce4f.chunk.js",
     "static/js/2.2bdcce4f.chunk.js.map": "/pandemicdaycnt/static/js/2.2bdcce4f.chunk.js.map",
     "index.html": "/pandemicdaycnt/index.html",
-    "precache-manifest.31fed158e92216315ec18853fa2d5701.js": "/pandemicdaycnt/precache-manifest.31fed158e92216315ec18853fa2d5701.js",
+    "precache-manifest.d1dd53988046ec7a5e44b02bf717d0fc.js": "/pandemicdaycnt/precache-manifest.d1dd53988046ec7a5e44b02bf717d0fc.js",
     "service-worker.js": "/pandemicdaycnt/service-worker.js",
     "static/css/main.04f938e9.chunk.css.map": "/pandemicdaycnt/static/css/main.04f938e9.chunk.css.map",
     "static/js/2.2bdcce4f.chunk.js.LICENSE.txt": "/pandemicdaycnt/static/js/2.2bdcce4f.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.660a3917.js",
     "static/js/2.2bdcce4f.chunk.js",
     "static/css/main.04f938e9.chunk.css",
-    "static/js/main.be05c919.chunk.js"
+    "static/js/main.b0466426.chunk.js"
   ]
 }
